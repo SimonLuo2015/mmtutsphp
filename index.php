@@ -17,6 +17,12 @@
     // $x = $x + 20;
 
     // echo $x
+
+    // Increment Operators
+    $x = 10;
+    echo $x--;
+    echo $x;
+
 ?>
 
 </body>
